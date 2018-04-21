@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GooglePictureViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="word">Слово</string>
+
+    <string name="url_google">https://www.google.ru/search?q=%word%&amp;newwindow=1&amp;source=android-brouser&amp;tbm=isch</string>
+</resources>
